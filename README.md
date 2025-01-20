@@ -9,4 +9,4 @@ The PDF document provides an explanation of the fundamentals of orbital mechanic
 1) https://orbitalmechanics.info/
 2) https://youtube.com/playlist?list=PLbPW06RB5w6m_xizacLr6dMXP58IHq23D&si=4i3OxbtAztL6RIHD
 
-*To run the code, ensure you have downloaded and installed the **Satellite Communications Toolbox**, **Aerospace Communications Toolbox** and **Control Systems Toolbox.***
+*To run the code, ensure you have downloaded and installed the **Satellite Communications Toolbox**, **Aerospace Communications Toolbox** and **Control Systems Toolbox** in MATLAB.*
