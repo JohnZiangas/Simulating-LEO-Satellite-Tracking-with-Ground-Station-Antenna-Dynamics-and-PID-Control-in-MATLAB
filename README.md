@@ -1,4 +1,4 @@
-# Simulating-LEO-Satellite-Tracking-with-Ground-Station-Antenna-Dynamics-and-PID-Control-in-MATLAB
+# Simulating-LEO-Satellite-Tracking-with-Ground-Station-Antenna-Dynamics-and-PID-Control-in-MATLAB.
 
 This project was submitted as part of the semester project for the course **"Advanced Control Systems" (ECE_ELE760)** in the Department of Electrical and Computer Engineering at the University of the Peloponnese. The project explores fundamental concepts in orbital mechanics, antenna dynamics, and PID control, combining these elements to simulate a Low Earth Orbit (LEO) satellite. It is designed for beginners interested in entering the space industry, particularly in the field of satellite communications.
 
