@@ -4,7 +4,7 @@ This project was submitted as part of the semester project for the course **"Adv
 
 The repository includes the main MATLAB code, which simulates the motion of a LEO satellite for 25 minutes as it passes above a ground station. Additionally, the ***"PID Controllers"*** folder contains the MATLAB codes for modeling a simple PID controller to track the satellite's azimuth and elevation. The files ***"Azimuth_Values.mat"*** and ***"Elevation_Values.mat"*** provide the azimuth and elevation data of the satellite when it is within the antenna's local horizon. These values are manually extracted from the ***"LEO_Satellite_Orbit_Simulation.mlx"*** file and can be used in conjunction with the ***"Azimuth_Calc.m"*** and ***"Elevation_Calc.m"*** files.
 
-The PDF document provides an explanation of the fundamentals of orbital mechanics, antenna dynamics and PID control, offering valueable insights into the core principles of satellite tracking and communication. I highly recommend exploring the following material if you wish to deepen your understanding of satellite orbits and communication systems.
+I highly recommend exploring the following material if you wish to deepen your understanding of satellite orbits and communication systems.
 
 1) https://orbitalmechanics.info/
 2) https://youtube.com/playlist?list=PLbPW06RB5w6m_xizacLr6dMXP58IHq23D&si=4i3OxbtAztL6RIHD
